@@ -1,0 +1,68 @@
+---
+format: 
+  revealjs:
+    width: 1600
+    height: 920
+    max-scale: 1
+    min-scale: 1
+    smaller: true
+    transition: fade
+    background-transition: fade
+    theme: theme.scss
+    code-line-numbers: false
+    menu: true
+    code-block-height: 640px
+engine: knitr
+---
+
+# {background-image="assets/background/title-slide-light.png" background-size="1700px" background-color="white"}
+
+::: {.content-slide-thin}
+Welcome to
+:::
+
+::: {.content-slide}
+**My awesome<br/>talk**
+:::
+
+::: {.content-slide-thin}
+August 13
+:::
+
+
+## [Slide light]{style="color:#666;"} {background-image="assets/background/slide-light.png" background-size="1700px" background-color="white"}
+
+<br/>
+
+:::{.columns}
+::: {.column width="20%"}
+:::
+
+::: {.column width="80%"}
+::: custom
+- Item 1
+- Item 2
+- Item 3
+:::
+:::
+:::
+
+
+## {background-image="assets/background/content-slide.png" background-size="1700px" background-color="#2a7070"}
+
+:::{.content-slide-title}
+Section 1
+:::
+
+:::{.content-slide}
+Title of <br/> this section
+:::
+
+## {background-image="assets/background/boxed-green.png" background-size="1700px" background-color="#799857"}
+
+:::{.green-slide}
+Some content here
+:::
+
+## {background-image="assets/background/thank-you.png" background-size="1700px" background-color="#2a7070"}
+
