@@ -15,12 +15,6 @@ format:
 engine: knitr
 ---
 
-# {background-image="assets/background/title-slide.png" background-size="1700px" background-color="#3D6E74"}
-
-[My awesome <br/>talk]{style="color:#fff;font-size:140px;"}
-<br/>
-[My even <br/> better subtitle]{style="color:#ddd;font-size:80px;"}
-
 
 # {background-image="assets/background/title-slide-light.png" background-size="1700px" background-color="white"}
 
@@ -39,6 +33,12 @@ August 13
 # {background-image="assets/background/title-slide-dark.png" background-size="1700px" background-color="#3D6E74"}
 
 [My awesome talk]{style="color:#fff;font-size:140px;"}
+<br/>
+[My even <br/> better subtitle]{style="color:#ddd;font-size:80px;"}
+
+# {background-image="assets/background/title-slide.png" background-size="1700px" background-color="#3D6E74"}
+
+[My awesome <br/>talk]{style="color:#fff;font-size:140px;"}
 <br/>
 [My even <br/> better subtitle]{style="color:#ddd;font-size:80px;"}
 
@@ -75,7 +75,7 @@ I'm in a box!
 A green slide!
 :::
 
-## {background-image="assets/background/boxed-dark.png" background-size="1700px" background-color="#799857"}
+## {background-image="assets/background/boxed-dark.png" background-size="1700px" background-color="#3D6E74"}
 
 :::{.dark-slide}
 Not a green slide!
@@ -91,7 +91,7 @@ Section 1
 Title of <br/> this section
 :::
 
-## {background-image="assets/background/content-green-dark.png" background-size="1710px" background-color="#2a7070"}
+## {background-image="assets/background/content-green-dark.png" background-size="1710px" background-color="#3D6E74"}
 
 :::{.columns}
 :::{.column width="35%"}
