@@ -15,7 +15,7 @@ format:
 engine: knitr
 ---
 
-# {background-image="assets/background/title-slide.png" background-size="1700px" background-color="white"}
+# {background-image="assets/background/title-slide.png" background-size="1700px" background-color="#3D6E74"}
 
 [My awesome <br/>talk]{style="color:#fff;font-size:140px;"}
 <br/>
@@ -36,7 +36,7 @@ Welcome to
 August 13
 :::
 
-# {background-image="assets/background/title-slide-dark.png" background-size="1700px" background-color="white"}
+# {background-image="assets/background/title-slide-dark.png" background-size="1700px" background-color="#3D6E74"}
 
 [My awesome talk]{style="color:#fff;font-size:140px;"}
 <br/>
@@ -60,8 +60,17 @@ August 13
 :::
 :::
 
+## {background-image="assets/background/boxed-light.png" background-size="1700px" background-color="white"}
 
-## {background-image="assets/background/content-slide.png" background-size="1700px" background-color="#2a7070"}
+<br/>
+
+:::{.custom2}
+This is an explanation
+
+:::
+
+
+## {background-image="assets/background/content-slide.png" background-size="1710px" background-color="#2a7070"}
 
 :::{.content-slide-title}
 Section 1
