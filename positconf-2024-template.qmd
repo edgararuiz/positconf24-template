@@ -15,6 +15,13 @@ format:
 engine: knitr
 ---
 
+# {background-image="assets/background/title-slide.png" background-size="1700px" background-color="white"}
+
+[My awesome <br/>talk]{style="color:#fff;font-size:140px;"}
+<br/>
+[My even <br/> better subtitle]{style="color:#ddd;font-size:80px;"}
+
+
 # {background-image="assets/background/title-slide-light.png" background-size="1700px" background-color="white"}
 
 ::: {.content-slide-thin}
