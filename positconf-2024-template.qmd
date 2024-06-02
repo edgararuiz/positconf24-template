@@ -29,6 +29,12 @@ Welcome to
 August 13
 :::
 
+# {background-image="assets/background/title-slide-dark.png" background-size="1700px" background-color="white"}
+
+[My awesome talk]{style="color:#fff;font-size:140px;"}
+<br/>
+[My even <br/> better subtitle]{style="color:#ddd;font-size:80px;"}
+
 
 ## [Slide light]{style="color:#666;"} {background-image="assets/background/slide-light.png" background-size="1700px" background-color="white"}
 
@@ -60,7 +66,7 @@ Title of <br/> this section
 
 ## {background-image="assets/background/boxed-green.png" background-size="1700px" background-color="#799857"}
 
-:::{.green-slide}
+:::{.dark-slide}
 Some content here
 :::
 
