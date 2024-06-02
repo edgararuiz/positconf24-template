@@ -65,10 +65,21 @@ August 13
 <br/>
 
 :::{.custom2}
-This is an explanation
+I'm in a box!
 
 :::
 
+## {background-image="assets/background/boxed-green.png" background-size="1700px" background-color="#799857"}
+
+:::{.dark-slide}
+A green slide!
+:::
+
+## {background-image="assets/background/boxed-dark.png" background-size="1700px" background-color="#799857"}
+
+:::{.dark-slide}
+Not a green slide!
+:::
 
 ## {background-image="assets/background/content-slide.png" background-size="1710px" background-color="#2a7070"}
 
@@ -80,10 +91,52 @@ Section 1
 Title of <br/> this section
 :::
 
-## {background-image="assets/background/boxed-green.png" background-size="1700px" background-color="#799857"}
+## {background-image="assets/background/content-green-dark.png" background-size="1710px" background-color="#2a7070"}
 
+:::{.columns}
+:::{.column width="35%"}
+[My smart points]{style="color:#fff;font-size:120px;"}
+:::
+:::{.column width="65%"}
 :::{.dark-slide}
-Some content here
+- Smart point No. 1
+- Smart point No. 2
+- Smart point No. 3
+:::
+:::
+:::
+
+## {background-image="assets/background/content-dark-green.png" background-size="1710px" background-color="#2a7070"}
+
+:::{.columns}
+:::{.column width="35%"}
+[My smartier points]{style="color:#fff;font-size:120px;"}
+:::
+:::{.column width="65%"}
+:::{.dark-slide}
+- Smart point No. 1
+- Smart point No. 2
+- Smart point No. 3
+:::
+:::
+:::
+
+## [Here's some code]{style="color:#666;"} {background-image="assets/background/slide-light.png" background-size="1700px" background-color="white"}
+
+:::{.sample-code}
+```r
+as_tibble(iris)
+#> # A tibble: 150 × 5
+#>   Sepal.Length Sepal.Width Petal.Length Petal.Width Species
+#>          <dbl>       <dbl>        <dbl>       <dbl> <fct>  
+#> 1          5.1         3.5          1.4         0.2 setosa 
+#> 2          4.9         3            1.4         0.2 setosa 
+#> 3          4.7         3.2          1.3         0.2 setosa 
+#> 4          4.6         3.1          1.5         0.2 setosa 
+#> 5          5           3.6          1.4         0.2 setosa 
+#> 6          5.4         3.9          1.7         0.4 setosa 
+#> # ℹ 144 more rows
+```
 :::
 
 ## {background-image="assets/background/thank-you.png" background-size="1700px" background-color="#2a7070"}
