@@ -5,7 +5,7 @@
   "metadata": {
     "appmode": "static",
     "primary_rmd": null,
-    "primary_html": "positconf2024-template.html",
+    "primary_html": "positconf-2024-template.html",
     "content_category": null,
     "has_parameters": false
   },
@@ -48,7 +48,7 @@
       "checksum": "4a37000df9a2692c767193040feb9989"
     },
     "manifest.json": {
-      "checksum": "74f811ae0b8c508f18c9165faf58016e"
+      "checksum": "37295ae6df79c9d284a2ddaa192ba049"
     },
     "positconf-2024-template_files/libs/clipboard/clipboard.min.js": {
       "checksum": "15f52a1ee547f2bdd46e56747332ca2d"
@@ -270,7 +270,7 @@
       "checksum": "c8d3f84a410f46d4d8b03a268e313e35"
     },
     "README.md": {
-      "checksum": "9d72f9d79dd71d08ee82419f3563bcf7"
+      "checksum": "7053809f060aa7ea887d46fd8dbe9c60"
     },
     "theme.scss": {
       "checksum": "032a8db5f46fa4d983fc05ec9210b678"
