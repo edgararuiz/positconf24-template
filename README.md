@@ -16,3 +16,5 @@ rsconnect::writeManifest(
 
 After the file is created, publish it via the Git Backed feature in Connect:
 https://docs.posit.co/connect/user/publishing-cli-manifest/
+
+To view a published version of this template visit: https://connect.posit.it/positconf2024-template/
