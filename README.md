@@ -13,3 +13,6 @@ rsconnect::writeManifest(
   appFiles = app_files
 )
 ```
+
+After the file is created, publish it via the Git Backed feature in Connect:
+https://docs.posit.co/connect/user/publishing-cli-manifest/
