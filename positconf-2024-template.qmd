@@ -81,7 +81,7 @@ A green slide!
 Not a green slide!
 :::
 
-## {background-image="assets/background/content-slide.png" background-size="1710px" background-color="#2a7070"}
+## {background-image="assets/background/content-slide.svg" background-size="1710px" background-color="#2a7070"}
 
 :::{.content-slide-title}
 Section 1
@@ -91,7 +91,7 @@ Section 1
 Title of <br/> this section
 :::
 
-## {background-image="assets/background/content-green-dark.png" background-size="1710px" background-color="#3D6E74"}
+## {background-image="assets/background/content-green-dark.svg" background-size="1710px" background-color="#3D6E74"}
 
 :::{.columns}
 :::{.column width="35%"}
@@ -106,7 +106,7 @@ Title of <br/> this section
 :::
 :::
 
-## {background-image="assets/background/content-dark-green.png" background-size="1710px" background-color="#2a7070"}
+## {background-image="assets/background/content-dark-green.svg" background-size="1710px" background-color="#799857"}
 
 :::{.columns}
 :::{.column width="35%"}
@@ -139,5 +139,5 @@ as_tibble(iris)
 ```
 :::
 
-## {background-image="assets/background/thank-you.png" background-size="1700px" background-color="#2a7070"}
+## {background-image="assets/background/thank-you.svg" background-size="1700px" background-color="#2a7070"}
 
