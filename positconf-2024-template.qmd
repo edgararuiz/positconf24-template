@@ -43,7 +43,7 @@ August 13
 [My even <br/> better subtitle]{style="color:#ddd;font-size:80px;"}
 
 
-## [Slide light]{style="color:#666;"} {background-image="assets/background/slide-light.png" background-size="1700px" background-color="white"}
+## [Slide light]{style="color:#666;"} {background-image="assets/background/slide-light.svg" background-size="1700px" background-color="white"}
 
 <br/>
 
@@ -121,7 +121,7 @@ Title of <br/> this section
 :::
 :::
 
-## [Here's some code]{style="color:#666;"} {background-image="assets/background/slide-light.png" background-size="1700px" background-color="white"}
+## [Here's some code]{style="color:#666;"} {background-image="assets/background/slide-light.svg" background-size="1700px" background-color="white"}
 
 :::{.sample-code}
 ```r
