@@ -36,7 +36,7 @@ August 13
 <br/>
 [My even <br/> better subtitle]{style="color:#ddd;font-size:80px;"}
 
-# {background-image="assets/background/title-slide.png" background-size="1700px" background-color="#3D6E74"}
+# {background-image="assets/background/title-slide.svg" background-size="1700px" background-color="#3D6E74"}
 
 [My awesome <br/>talk]{style="color:#fff;font-size:140px;"}
 <br/>
